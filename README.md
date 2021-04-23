@@ -12,3 +12,7 @@ This is a demo repo for sharing ideas around communication.
 ### Gist
 
 This is a good example of [my code] (https://gist.github.com/tonycorreia91/7aedbec4005c9956992468425b1ffddc)
+
+## Colab
+
+This is the link to my Colab [notebook] (https://colab.research.google.com/drive/1A-F83JbDlmfR_JZdiNtbLHKcXSIn4XoL?usp=sharing)
