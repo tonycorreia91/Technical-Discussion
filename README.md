@@ -19,4 +19,4 @@ This is the link to my Colab [notebook] (https://colab.research.google.com/drive
 
 ## Image
 
-https://github.com/tonycorreia91/Technical-Discussion/issues/1#issue-866439840
+![capitalize cntst](https://user-images.githubusercontent.com/55112188/115931428-ec57bd00-a43f-11eb-9166-c4453ec1388f.jpg)
